@@ -1,0 +1,4 @@
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+col01,,https://virtualcampus.up.ac.za/,,Virtual Campus - University of Pretoria,,2024,"A virtual tour of the University of Pretoria, showcasing the campus, facilities, and academic resources.",virtual tour;campus,South Africa,,,,,,,eng,Educational use,https://rightsstatements.org/vocab/InC-EDU/1.0/
+col02,bitcoin.pdf,,,Bitcoin: A Peer-to-Peer Electronic Cash System,Satoshi Nakamoto,2024,Original whitepaper describing Bitcoin.,Cryptocurrency,,,,,bitcoin,application/pdf,Text,eng,Educational use,https://rightsstatements.org/vocab/InC-EDU/1.0/
+col03,poster.png,,,Intellectual disability awareness,IDAM,2024,awareness for the disable,"disability, awareness, health",South africa,,,,poster,image/png,Image;StillImage,eng,Educational use,https://rightsstatements.org/vocab/InC-EDU/1.0/
